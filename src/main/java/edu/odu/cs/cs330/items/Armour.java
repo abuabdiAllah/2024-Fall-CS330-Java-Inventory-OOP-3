@@ -93,7 +93,6 @@ public class Armour extends Equippable {
         Armour cpy = new Armour();
 
         // Complete the remainder of this method
-        cpy = super.clone();
 
         return cpy;
     }
